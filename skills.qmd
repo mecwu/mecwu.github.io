@@ -1,0 +1,37 @@
+---
+title: "Skills"
+---
+
+<div class="sec-label">Technical Skills</div>
+
+::: card
+**Programming & Data Tools**
+
+<span class="tag">Python (Pandas, NumPy)</span> <span class="tag">SQL</span> <span class="tag">Excel</span> <span class="tag">Power BI</span> <span class="tag">AWS EC2</span> <span class="tag">Plotly</span> <span class="tag">Quarto</span>
+:::
+
+::: card
+**Analytics & Modeling**
+
+<span class="tag">Business Analytics</span> <span class="tag">Data Visualization</span> <span class="tag">Multiple Linear Regression</span> <span class="tag">Random Forest</span> <span class="tag">Monte Carlo Simulation</span> <span class="tag">MCMC</span> <span class="tag">Bayesian Analysis</span> <span class="tag">DCF Valuation</span> <span class="tag">Financial Modeling</span> <span class="tag">Risk Assessment</span> <span class="tag">Scenario Analysis</span>
+:::
+
+---
+
+<div class="sec-label">ESG & Sustainability Frameworks</div>
+
+::: card
+**Frameworks & Standards**
+
+<span class="tag">GRI</span> <span class="tag">SASB</span> <span class="tag">TCFD</span> <span class="tag">IFRS S1/S2</span>
+:::
+
+---
+
+<div class="sec-label">Languages</div>
+
+::: card
+**Language Proficiency**
+
+<span class="tag">Mandarin — Native</span> <span class="tag">English — Proficient</span> <span class="tag">Japanese — Intermediate</span>
+:::

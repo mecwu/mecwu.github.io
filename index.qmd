@@ -1,7 +1,72 @@
 ---
-title: "mecwu.github.io"
+title: ""
 ---
 
-This is a Quarto website.
+::: {style="display:flex; gap:40px; align-items:center; padding:40px 0 32px;"}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {style="flex:1;"}
+<div class="eyebrow">ESG · Data Analytics · Risk Management</div>
+
+# Lo-Ying (Mecole) Wu
+
+<p style="color:#2c4a7c; font-size:1rem; font-weight:500;">ESG & Business Analytics Professional</p>
+
+MS Applied Business Analytics · Boston University
+
+<div class="divline"></div>
+
+Bridging [sustainability strategy]{style="color:#2c4a7c; font-weight:500;"} and [data-driven decisions]{style="color:#2c4a7c; font-weight:500;"} across ESG, risk management, and analytics. Previously at [Deloitte]{style="color:#2c4a7c; font-weight:500;"}, currently interning in Boston.
+
+[View Projects](projects.qmd){.btn-primary .btn} 
+:::
+
+::: {style="width:160px; height:200px; border-radius:10px; background:#e8eef8; flex-shrink:0; display:flex; align-items:center; justify-content:center;"}
+![](assets/photo.jpg){style="width:160px; height:200px; object-fit:cover; border-radius:10px;"}
+:::
+
+:::
+
+---
+
+<div class="sec-label">About Me</div>
+
+I'm passionate about using data to drive meaningful decisions — especially at the intersection of **ESG**, **risk management**, and **analytics**. My goal is work where analysis directly influences real-world outcomes, whether in climate risk, governance, or operational performance.
+
+---
+
+<div class="sec-label">What I Do</div>
+
+::: {style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:16px; margin-top:8px;"}
+
+::: card
+**📊 Data Analytics**
+
+Python, SQL, Excel, Tableau
+:::
+
+::: card
+**🌱 ESG & Sustainability**
+
+GRI, SASB, IFRS S1/S2, TCFD
+:::
+
+::: card
+**⚠️ Risk Management**
+
+ERM frameworks, corporate risk assessment
+:::
+
+:::
+---
+
+<div class="sec-label">Contact</div>
+
+::: {style="display:flex; gap:32px; flex-wrap:wrap; padding:8px 0 24px;"}
+
+[mecwu@bu.edu](mailto:mecwu@bu.edu)
+
+[linkedin.com/in/loyingwu](https://www.linkedin.com/in/loyingwu)
+
+[github.com/mecwu](https://github.com/mecwu)
+
+:::

@@ -1,19 +1,26 @@
 project:
   type: website
+  output-dir: _site
 
 website:
-  title: "mecwu.github.io"
+  title: "Mecole Wu"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
+      - href: experience.qmd
+        text: Experience
+      - href: skills.qmd
+        text: Skills
+      - href: projects.qmd
+        text: Projects
+      - href: assets/LoYing_Wu_AnalyticsResume_V3.pdf
+        text: Resume
+  page-footer:
+    center: "© 2026 Mecole Wu · Data Analytics Portfolio"
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
-
-
-

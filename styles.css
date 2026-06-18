@@ -1,1 +1,122 @@
 /* css styles */
+:root {
+  --navy: #2c4a7c;
+  --navy-dark: #1a2e50;
+  --navy-light: #f4f6fb;
+  --navy-border: #d8e0f0;
+  --navy-muted: #7a90b0;
+  --coral: #c97b5a;
+  --white: #ffffff;
+}
+
+body {
+  color: #3a4a5a;
+  background: var(--white);
+  font-family: sans-serif;
+}
+
+/* Navbar */
+.navbar {
+  background-color: var(--navy-light) !important;
+  border-bottom: 0.5px solid var(--navy-border);
+}
+.navbar-brand {
+  color: var(--navy) !important;
+  font-weight: 500;
+}
+.nav-link {
+  color: var(--navy-muted) !important;
+}
+.nav-link:hover,
+.nav-link.active {
+  color: var(--navy-dark) !important;
+  font-weight: 500;
+}
+
+/* Headings */
+h1 { color: var(--navy-dark); font-weight: 500; }
+h2 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  color: var(--navy-dark);
+  border-left: 3px solid var(--navy);
+  padding-left: 12px;
+  margin: 36px 0 18px;
+}
+
+/* Section label */
+.sec-label {
+  font-size: 0.7rem;
+  color: var(--coral);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 500;
+  margin-bottom: 14px;
+}
+
+/* Cards */
+.card {
+  background: var(--navy-light);
+  border: 0.5px solid var(--navy-border);
+  border-radius: 10px;
+  padding: 20px 24px;
+  margin-bottom: 16px;
+}
+.card:hover {
+  box-shadow: 0 4px 16px rgba(44,74,124,0.08);
+}
+
+/* Tags */
+.tag {
+  display: inline-block;
+  background: var(--navy-light);
+  color: var(--navy);
+  border: 0.5px solid var(--navy-border);
+  border-radius: 4px;
+  padding: 2px 10px;
+  font-size: 0.75rem;
+  margin: 3px;
+}
+
+/* Buttons */
+.btn-primary {
+  background: var(--navy-light) !important;
+  color: var(--navy-dark) !important;
+  border: 1px solid var(--navy-border) !important;
+  font-weight: 500;
+  border-radius: 6px;
+}
+.btn-primary:hover {
+  background: var(--navy-border) !important;
+}
+.btn-outline-secondary {
+  color: var(--navy-muted) !important;
+  border-color: var(--navy-border) !important;
+  border-radius: 6px;
+}
+
+/* Eyebrow / accent text */
+.eyebrow {
+  font-size: 0.7rem;
+  color: var(--coral);
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+
+/* Divider line accent */
+.divline {
+  width: 36px;
+  height: 2px;
+  background: var(--navy-border);
+  margin: 14px 0;
+}
+
+/* Footer */
+.page-footer {
+  background: var(--navy-light);
+  border-top: 0.5px solid var(--navy-border);
+  color: var(--navy-muted);
+  font-size: 0.8rem;
+  text-align: center;
+  padding: 14px;
+}

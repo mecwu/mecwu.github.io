@@ -1,0 +1,58 @@
+---
+title: "Projects"
+---
+
+<div class="sec-label">Featured Projects</div>
+
+> Selected work from coursework and personal projects in data analytics, risk management, and AI-powered sustainability tools.
+
+---
+
+::: card
+**📊 Risk Management: Production Strategy Simulation**
+
+<span class="tag">Python</span> <span class="tag">Monte Carlo</span> <span class="tag">MCMC</span> <span class="tag">Bayesian Analysis</span> <span class="tag">Sensitivity Analysis</span> <span class="tag">Statistics</span>
+
+**Problem**
+A pharmaceutical company must decide whether to switch from batch to continuous production. The decision involves demand uncertainty, raw material price volatility, regulatory risk, and employee turnover.
+
+**My Role**
+Validated simulation models by comparing outputs to historical data, running sensitivity analysis on key inputs, and checking result stability across multiple runs.
+
+**Outcome**
+Simulation results confirmed model robustness. Integrated with team's NPV framework (7% IRR), the final recommendation was to maintain the existing batch production strategy.
+:::
+
+---
+
+::: card
+**☁️ AI vs. Traditional Career Salary Analysis**
+
+<span class="tag">Python</span> <span class="tag">R</span> <span class="tag">Multiple Linear Regression</span> <span class="tag">Random Forest</span> <span class="tag">Quarto</span> <span class="tag">EC2</span> <span class="tag">Plotly</span>
+
+**Problem**
+How do salaries, remote work opportunities, and skill demands differ between AI and non-AI careers in 2024? Which regions and industries offer the highest growth potential?
+
+**My Role**
+Led literature review and industry background research. Conducted skill gap analysis comparing in-demand skills vs. market availability. Built Multiple Linear Regression and Random Forest models to identify key salary predictors and evaluate model performance (R², MSE). Performed career pathway analysis based on findings.
+
+**Outcome**
+[UPDATE THIS — e.g. R² of X across Y model, key finding about salary predictors] Findings published as an interactive Quarto website on GitHub Pages.
+:::
+
+---
+
+::: card
+**🤖 ChefGPT: AI-Powered Food Waste Reduction App**
+
+<span class="tag">Generative AI</span> <span class="tag">CursorAI</span> <span class="tag">App Prototyping</span> <span class="tag">UX Design</span> <span class="tag">Sustainability</span>
+
+**Problem**
+Food waste is a major sustainability issue. Consumers waste food due to lack of recipe ideas and poor ingredient management — a behavior problem that technology can help solve.
+
+**My Role**
+Co-developed a generative AI recipe application that takes users' available ingredients, dietary preferences, and allergy restrictions as inputs and generates personalized recipes. Designed the user experience and recommendation logic using generative AI concepts. Built prototype using CursorAI with a focus on usability and sustainability impact.
+
+**Outcome**
+Delivered a working prototype demonstrating how GenAI can reduce food waste by helping users make smarter ingredient decisions — connecting everyday consumer behavior to broader sustainability goals.
+:::

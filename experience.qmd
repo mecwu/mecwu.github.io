@@ -1,0 +1,52 @@
+::: card
+**Project Data Analysis Intern**
+
+Sustainable Business Network
+
+Boston, MA · Jan 2026 – May 2026
+
+<span class="tag">Data Analysis</span> <span class="tag">Excel</span> <span class="tag">Social Media Analytics</span> <span class="tag">Reporting</span>
+
+- Consolidated and analyzed event survey and social media data across multiple channels, organizing findings into structured reports to support operational planning decisions.
+- Examined social media engagement metrics across Facebook and Instagram, pinpointing highest-performing content types to inform future marketing strategy.
+:::
+
+::: card
+**Corporate Sustainability and ESG Service Intern Consultant**
+
+Deloitte Touche Tohmatsu Limited
+
+Taipei, Taiwan · Oct 2024 – Aug 2025
+
+<span class="tag">ESG</span> <span class="tag">GRI</span> <span class="tag">Sustainability Reporting</span> <span class="tag">Benchmarking</span> <span class="tag">Risk Analysis</span>
+
+- Coordinated cross-functional workflows across 12 client engagements, managing timelines, documentation, and stakeholder communication to ensure on-track delivery of advisory deliverables.
+- Verified data accuracy and disclosure integrity across 7 corporate sustainability reports, cross-referencing financial and operational metrics against source documentation to ensure compliance with GRI standards.
+- Performed competitor benchmarking by analyzing financial metrics and governance structures across industry peers, delivering comparative analysis to support client advisory decisions.
+- Synthesized market intelligence and ESG risk findings into executive-ready reports and presentations, supporting leadership decision-making.
+:::
+
+::: card
+**Environmental, Social and Governance Intern Consultant**
+
+Reanda M Y Wu & Co., CPAs
+
+Taipei, Taiwan · Jul 2024 – Aug 2024
+
+<span class="tag">Carbon Footprint</span> <span class="tag">ESG Assurance</span> <span class="tag">Training</span> <span class="tag">Regulatory Frameworks</span>
+
+- Conducted carbon footprint verification and assurance engagements for 2 companies, validating emissions data accuracy and compliance with reporting standards.
+- Developed ESG training materials and delivered 6-hour client training sessions, translating complex regulatory frameworks into actionable guidance for corporate stakeholders.
+:::
+
+::: card
+**Sustainability Report Researcher**
+
+Veda International Corp.
+
+Taipei, Taiwan · Oct 2023 – Feb 2024
+
+<span class="tag">ESG Research</span> <span class="tag">Data Extraction</span> <span class="tag">Governance Analysis</span>
+
+- Extracted and categorized ESG disclosure data from 40 public companies across industries, systematically mapping governance practices, risk exposure, and reporting metrics into a structured analysis system.
+:::
