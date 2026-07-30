@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "eportfolio/about.html",
+    "href": "eportfolio/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills",
+    "section": "",
+    "text": "Technical Skills\n\n\nProgramming & Data Tools\nPython (Pandas, NumPy) SQL Excel Power BI AWS EC2 Plotly Quarto\n\n\nAnalytics & Modeling\nBusiness Analytics Data Visualization Multiple Linear Regression Random Forest Monte Carlo Simulation MCMC Bayesian Analysis DCF Valuation Financial Modeling Risk Assessment Scenario Analysis\n\n\n\nESG & Sustainability Frameworks\n\n\nFrameworks & Standards\nGRI SASB TCFD IFRS S1/S2\n\n\n\nLanguages\n\n\nLanguage Proficiency\nMandarin — Native English — Proficient Japanese — Intermediate"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Mecole Wu",
+    "section": "",
+    "text": "Project Data Analysis Intern\nSustainable Business Network\nBoston, MA · Jan 2026 – May 2026\nData Analysis Excel Social Media Analytics Reporting\n\nConsolidated and analyzed event survey and social media data across multiple channels, organizing findings into structured reports to support operational planning decisions.\nExamined social media engagement metrics across Facebook and Instagram, pinpointing highest-performing content types to inform future marketing strategy.\n\n\n\nCorporate Sustainability and ESG Service Intern Consultant\nDeloitte Touche Tohmatsu Limited\nTaipei, Taiwan · Oct 2024 – Aug 2025\nESG GRI Sustainability Reporting Benchmarking Risk Analysis\n\nCoordinated cross-functional workflows across 12 client engagements, managing timelines, documentation, and stakeholder communication to ensure on-track delivery of advisory deliverables.\nVerified data accuracy and disclosure integrity across 7 corporate sustainability reports, cross-referencing financial and operational metrics against source documentation to ensure compliance with GRI standards.\nPerformed competitor benchmarking by analyzing financial metrics and governance structures across industry peers, delivering comparative analysis to support client advisory decisions.\nSynthesized market intelligence and ESG risk findings into executive-ready reports and presentations, supporting leadership decision-making.\n\n\n\nEnvironmental, Social and Governance Intern Consultant\nReanda M Y Wu & Co., CPAs\nTaipei, Taiwan · Jul 2024 – Aug 2024\nCarbon Footprint ESG Assurance Training Regulatory Frameworks\n\nConducted carbon footprint verification and assurance engagements for 2 companies, validating emissions data accuracy and compliance with reporting standards.\nDeveloped ESG training materials and delivered 6-hour client training sessions, translating complex regulatory frameworks into actionable guidance for corporate stakeholders.\n\n\n\nSustainability Report Researcher\nVeda International Corp.\nTaipei, Taiwan · Oct 2023 – Feb 2024\nESG Research Data Extraction Governance Analysis\n\nExtracted and categorized ESG disclosure data from 40 public companies across industries, systematically mapping governance practices, risk exposure, and reporting metrics into a structured analysis system."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Featured Projects\n\n\nSelected work from coursework and personal projects in data analytics, risk management, and AI-powered sustainability tools.\n\n\n\n📊 Risk Management: Production Strategy Simulation\nPython Monte Carlo MCMC Bayesian Analysis Sensitivity Analysis Statistics\nProblem A pharmaceutical company must decide whether to switch from batch to continuous production. The decision involves demand uncertainty, raw material price volatility, regulatory risk, and employee turnover.\nMy Role Validated simulation models by comparing outputs to historical data, running sensitivity analysis on key inputs, and checking result stability across multiple runs.\nOutcome Simulation results confirmed model robustness. Integrated with team’s NPV framework (7% IRR), the final recommendation was to maintain the existing batch production strategy.\n\n\n\n☁️ AI vs. Traditional Career Salary Analysis\nPython R Multiple Linear Regression Random Forest Quarto EC2 Plotly\nProblem How do salaries, remote work opportunities, and skill demands differ between AI and non-AI careers in 2024? Which regions and industries offer the highest growth potential?\nMy Role Led literature review and industry background research. Conducted skill gap analysis comparing in-demand skills vs. market availability. Built Multiple Linear Regression and Random Forest models to identify key salary predictors and evaluate model performance (R², MSE). Performed career pathway analysis based on findings.\nOutcome [UPDATE THIS — e.g. R² of X across Y model, key finding about salary predictors] Findings published as an interactive Quarto website on GitHub Pages.\n\n\n\n🤖 ChefGPT: AI-Powered Food Waste Reduction App\nGenerative AI CursorAI App Prototyping UX Design Sustainability\nProblem Food waste is a major sustainability issue. Consumers waste food due to lack of recipe ideas and poor ingredient management — a behavior problem that technology can help solve.\nMy Role Co-developed a generative AI recipe application that takes users’ available ingredients, dietary preferences, and allergy restrictions as inputs and generates personalized recipes. Designed the user experience and recommendation logic using generative AI concepts. Built prototype using CursorAI with a focus on usability and sustainability impact.\nOutcome Delivered a working prototype demonstrating how GenAI can reduce food waste by helping users make smarter ingredient decisions — connecting everyday consumer behavior to broader sustainability goals."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lo-Ying (Mecole) Wu",
+    "section": "",
+    "text": "ESG · Data Analytics · Risk Management\n\n\nLo-Ying (Mecole) Wu\n\nESG & Business Analytics Professional\n\nMS Applied Business Analytics · Boston University\n\n\n\nBridging sustainability strategy and data-driven decisions across ESG, risk management, and analytics. Previously at Deloitte, currently interning in Boston.\nView Projects\n\n\n\n\n\n\n\n\nAbout Me\n\nI’m passionate about using data to drive meaningful decisions — especially at the intersection of ESG, risk management, and analytics. My goal is work where analysis directly influences real-world outcomes, whether in climate risk, governance, or operational performance.\n\n\nWhat I Do\n\n\n\n📊 Data Analytics\nPython, SQL, Excel, Tableau\n\n\n🌱 ESG & Sustainability\nGRI, SASB, IFRS S1/S2, TCFD\n\n\n⚠️ Risk Management\nERM frameworks, corporate risk assessment\n\n\n\n\nContact\n\n\nmecwu@bu.edu\nlinkedin.com/in/loyingwu\ngithub.com/mecwu"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "eportfolio/index.html",
+    "href": "eportfolio/index.html",
+    "title": "Lo-Ying Wu",
+    "section": "",
+    "text": "Welcome to my personal website.\n\n\n\nBoston University MSABA student\nInterested in ESG and AI\nSustainability consulting background"
+  },
+  {
+    "objectID": "eportfolio/index.html#about-me",
+    "href": "eportfolio/index.html#about-me",
+    "title": "Lo-Ying Wu",
+    "section": "",
+    "text": "Boston University MSABA student\nInterested in ESG and AI\nSustainability consulting background"
+  }
+]
