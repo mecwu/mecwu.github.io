@@ -1,5 +1,7 @@
 # Lo-Ying (Mecole) Wu — Portfolio
 
+🔗 **Live site:** [mecwu.github.io](https://mecwu.github.io)
+
 Personal portfolio built with [Quarto](https://quarto.org), showcasing project work in data analytics, financial modeling, and sustainability/ESG analysis.
 
 ## About
